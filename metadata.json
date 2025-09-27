@@ -1,0 +1,5 @@
+{
+  "name": "Gemini App Studio",
+  "description": "A text-to-app generator that creates React web applications based on your descriptions. Instantly preview your creation and browse the generated code, all in one place.",
+  "requestFramePermissions": []
+}
